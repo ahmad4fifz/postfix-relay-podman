@@ -1,0 +1,1 @@
+# podman-base-template
